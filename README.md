@@ -1,7 +1,7 @@
 # phishing-email-analysis
 
 A hands-on SOC project focused on analyzing phishing emails,
-identifying indicators of compromise (IOCs),
+identifying indicators of compromise,
 and documenting investigation findings.
 
 
